@@ -1,0 +1,4 @@
+baseURL = 'https://mkmozgawa.com'
+languageCode = 'en-us'
+title = 'MK Mozgawa'
+theme="anatole"
