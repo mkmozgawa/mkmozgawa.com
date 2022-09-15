@@ -11,7 +11,7 @@ tags:
 description: "On removing the text overlay with morphological transformations and document layout analysis."
 ---
 
-It took me a while to come up with an (at least) semi-effective method of removing the text pattern. While the thicker outlines can be disposed of pretty easily ([click](https://magda.space/removing-circles-lines-patterns-part-1.html), [click](https://magda.space/removing-circles-lines-patterns-part-1-5.html)), developing a method which wouldn't harm the text too much turned out to be much more challenging.
+It took me a while to come up with an (at least) semi-effective method of removing the text pattern. While the thicker outlines can be disposed of pretty easily ([click](/posts/removing-circles-lines-patterns-1/), [click](/posts/removing-circles-lines-patterns-part-1-5/)), developing a method which wouldn't harm the text too much turned out to be much more challenging.
 
 
 ```python

@@ -9,7 +9,9 @@ tags:
   - "Python"
 description: "I ❤️ me a good meme."
 ---
-As you may or may not have realized by now, I am an avid memer. Recently one of my favourites is the [Money Printer Go Brrr meme](https://knowyourmeme.com/memes/money-printer-go-brrr) that's so well-fitting given the current state of affairs. I also came across a modification that I've enjoyed even more:
+As you may or may not have realized by now, I am an avid memer. 
+
+Recently one of my favourites is the [Money Printer Go Brrr meme](https://knowyourmeme.com/memes/money-printer-go-brrr) that's so well-fitting given the current state of affairs. I also came across a modification that I've enjoyed even more:
 
 ![There are two people in this image, a Zoomer Wojak (with the Java logo) and a Boomer Wojak (with the Python logo). The Zoomer Wojak says, 'noooo!!! you have to write your own code! you cannot just use a library that does everything for you!!' and the Boomer Wojak replies with 'haha from python.goes import brrr'](files/meme.jpg "Money printer go brrr")
 
