@@ -10,6 +10,8 @@ tags:
 description: "A pret-a-porter Dockerfile for Flask apps that use Tesseract, now in Technicolor!"
 ---
 
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 Imagine you have a Flask app with some sort of a model that depends on Tesseract and you want to Dockerize it (because why not?)
 
 ...but then it turns out you also have to have Leptonica installed first,

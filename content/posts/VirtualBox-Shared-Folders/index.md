@@ -10,6 +10,8 @@ tags:
 description: "Virtualbox is hell on Earth, and you know it"
 ---
 
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 ### A little background
 
 This year for Rails Girls Poznan we wanted to have VirtualBox-ready images that would (a) be lightweight enough (both size- and resources-wise) for non-developer computers, (b) be user-friendly (so if someone wanted to do something on their machine, they wouldn't feel completely lost, i.e. we needed an OS with a GUI), (c) most importantly, include the latest Ruby and Rails as well as other useful gimmicks (image magick etc), (d) support shared folders.

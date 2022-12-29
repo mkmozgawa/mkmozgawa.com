@@ -11,6 +11,8 @@ tags:
 description: "On improving the thick outline removal method with morphological transformations."
 ---
 
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 Why 1.5? Because I'm not addressing the issue of the overlay text and instead present a small improvement on removing the thick outlines.
 
 

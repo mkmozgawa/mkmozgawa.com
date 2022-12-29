@@ -9,6 +9,9 @@ tags:
   - "Python"
 description: "I ❤️ me a good meme."
 ---
+
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 As you may or may not have realized by now, I am an avid memer. 
 
 Recently one of my favourites is the [Money Printer Go Brrr meme](https://knowyourmeme.com/memes/money-printer-go-brrr) that's so well-fitting given the current state of affairs. I also came across a modification that I've enjoyed even more:

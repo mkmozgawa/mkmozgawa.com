@@ -11,6 +11,8 @@ tags:
 description: "On removing thick contours with OpenCV using a naive method, the Satoshi Suzuki algorithm, and the Hough transform."
 ---
 
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 As an exercise in Python and OpenCV I wanted to try removing some obfuscating patterns from a PDF file. This could potentially come in handy if, as a university student, I had access to some lecture files with obfuscation patterns, and I wanted to save up on the ink while printing them out ;)
 
 The PDF file was generated using LaTeX. [This post](https://tex.stackexchange.com/questions/35133/how-to-add-random-lines-over-text-as-a-watermark-and-anti-ocr) on TeX Stack Exchange was of much help.

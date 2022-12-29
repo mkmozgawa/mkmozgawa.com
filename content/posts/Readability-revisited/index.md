@@ -11,6 +11,8 @@ tags:
 description: "On Pandas-Fu, readability scores, and my hatred for Joseph Conrad's Heart of Darkness."
 ---
 
+Слава Україні! [Support our Ukrainian friends.](https://ukrainewar.carrd.co/).
+
 A long, long time ago (to be exact -- in February 2018) I prepared a Shiny app to explore the books of the most popular [Project Gutenberg](https://www.gutenberg.org/catalog/) authors. The original app is still available (and bugged) [via ShinyApps](https://mzgw.shinyapps.io/book-recommendation/), and was inspired by [this article](https://blog.vocapouch.com/do-20-pages-of-a-book-gives-you-90-of-its-words-795a405afe70). I first decided to port the unique words plot from Python to R, then utilised some [readability scripts](https://github.com/mkmozgawa/flescher-readability) I'd written earlier, and all of a sudden it was all nice and Shiny. (ba-dum-tss) Also, it helped that I needed to create some kind of a project for my uni labs.
 
 I recently digged back into the project due to my incessant interest in the concepts of readability tests and other measurable text features. I thought the app itself could use some improvements, and at least one of them could potentially be done without touching the existing codebase. Then there's the issue with how to calculate the readability score -- and stay sane.
