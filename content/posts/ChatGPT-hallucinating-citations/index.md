@@ -1,6 +1,6 @@
 ---
 title: Hallucinating citations; ChatGPT edition
-date: "2023-05-07T20:00:00.000Z"
+date: "2023-05-07T10:00:00.000Z"
 layout: post
 draft: false
 path: "chatgpt-hallucinating-citations/"
